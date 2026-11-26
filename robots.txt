@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arikamb.github.io/sitemap.xml

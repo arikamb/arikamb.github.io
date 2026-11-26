@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Cask &amp; Cup</title>
+    <link>https://arikamb.github.io/</link>
+    <description>Practical guides to coffee and American whiskey, written in Wisconsin.</description>
+    <language>en-us</language>
+    <item>
+      <title>A Beginner's Guide to Bourbon Under $50</title>
+      <link>https://arikamb.github.io/posts/beginners-bourbon-under-50/</link>
+      <guid>https://arikamb.github.io/posts/beginners-bourbon-under-50/</guid>
+      <pubDate>Wed, 25 Nov 2026 08:00:00 -0600</pubDate>
+      <description>How to read a bourbon label, what bottled-in-bond actually means, and everyday bottles commonly found under $50 — without chasing allocated unicorns.</description>
+    </item>
+    <item>
+      <title>How to Make Pour-Over Coffee at Home</title>
+      <link>https://arikamb.github.io/posts/home-pour-over-guide/</link>
+      <guid>https://arikamb.github.io/posts/home-pour-over-guide/</guid>
+      <pubDate>Wed, 25 Nov 2026 08:00:00 -0600</pubDate>
+      <description>A practical pour-over method you can repeat on a weekday morning, with a starting ratio, a simple bloom, and fixes for sour, bitter, or stalled cups.</description>
+    </item>
+    <item>
+      <title>Coffee and Bourbon Pairings That Actually Make Sense</title>
+      <link>https://arikamb.github.io/posts/coffee-and-bourbon-pairings/</link>
+      <guid>https://arikamb.github.io/posts/coffee-and-bourbon-pairings/</guid>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 -0600</pubDate>
+      <description>A simple pairing method — match intensity, then choose complement or contrast — plus starter combinations you can test with everyday coffee and everyday bourbon.</description>
+    </item>
+    <item>
+      <title>What Bourbon-Barrel-Aged Coffee Actually Is (and Isn't)</title>
+      <link>https://arikamb.github.io/posts/bourbon-barrel-aged-coffee/</link>
+      <guid>https://arikamb.github.io/posts/bourbon-barrel-aged-coffee/</guid>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 -0600</pubDate>
+      <description>How barrel-aged coffee is made, how it differs from flavored coffee and coffee liqueur, and how to shop for and brew a bag that actually spent time in a barrel.</description>
+    </item>
+  </channel>
+</rss>
